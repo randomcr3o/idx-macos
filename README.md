@@ -2,6 +2,8 @@
 
 A repository inspired by kmille36/idx-windows-gui on Github.
 
+IDX HAS OFFICIALLY SUNSETTED BY GOOGLE, THIS REPO IS FOR ARCHIVE PURPOSE
+
 ---
 
 ### Usage
